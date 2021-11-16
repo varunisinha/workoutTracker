@@ -1,6 +1,6 @@
 # workoutTracker
 
-LIVE URL: https://workout-tracker-vs.herokuapp.com/
+Varuni Sinha LIVE URL: https://workout-tracker-vs.herokuapp.com/
 
 GitHub Repo: https://github.com/varunisinha/workoutTracker
 
